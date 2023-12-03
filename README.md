@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryankarumuri&label=Profile%20views&color=0e75b6&style=flat" alt="aryankarumuri" /> </p>
 <h1 align="center">Hi 👋, I'm Aryan Karumuri</h1>
 <h3 align="center">Enthusiastic in exploring the intersection of artificial intelligence and human psychology to enhance user experience design.</h3>
-<img align="right" alt="Coding" width="350" height="200" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Coding" width="250" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 - 🌱 I’m currently learning **Machine Learning**
 
