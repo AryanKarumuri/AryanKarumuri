@@ -1,46 +1,106 @@
 <!-- keywords: Aryan Karumuri, artificial intelligence, generative AI, machine learning, data science, deep learning, large language models, LLMs, NLP, UX design, cognitive psychology, human-computer interaction, python, scikit-learn, pytorch, tensorflow, prompt engineering -->
 
 <!-- Masterhead Image -->
-<img align="center" style="max-width: 100%; height: auto;" width="1000" height="300" alt="MasterHead" src="https://png.pngtree.com/thumb_back/fh260/background/20230702/pngtree-3d-illustration-of-a-software-developer-image_3752207.jpg">
+<img align="center" style="max-width: 100%; height: auto;" width="1000" height="300" alt="3D software developer illustration banner" src="https://png.pngtree.com/thumb_back/fh260/background/20230702/pngtree-3d-illustration-of-a-software-developer-image_3752207.jpg">
 
 <!-- Profile Views Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aryankarumuri&label=Profile%20views&color=0e75b6&style=flat" alt="aryankarumuri" />
+  <img src="https://komarev.com/ghpvc/?username=aryankarumuri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view counter for aryankarumuri" />
 </p>
 
 <!-- Title & Intro -->
 <h1 align="center">Hi 👋, I'm Aryan Karumuri</h1>
-<h3 align="center">Enthusiastic in exploring the intersection of artificial intelligence and human psychology to enhance user experience design.</h3>
+<h3 align="center">Exploring the intersection of Artificial Intelligence 🤖 and Human Psychology 🧠 to craft adaptive, user-first experiences.</h3>
 
 <!-- Coding GIF -->
-<img align="right" alt="Coding" width="250" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="Animated coding GIF showing developer at work" width="250" height="150" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <!-- About Me -->
+<h2>👨‍💻 About Me</h2>
 <ul>
   <li>🧠 Investigating how <strong>LLMs</strong>, <strong>generative models</strong>, and <strong>human behavior</strong> intersect to power adaptive, user-first AI systems.</li>
   <li>🤝 Open to collaboration on <strong>AI-powered applications</strong>, intelligent systems, or human-centered design projects.</li>
-  <li>📬 Let’s connect: <strong><a href="mailto:worldfamoushacker3@gmail.com">worldfamoushacker3@gmail.com</a></strong></li>
-  <li>🎯 Fun fact: <strong>I'm an ambivert.</strong></li>
+  <li>📬 Let's connect: <strong><a href="mailto:worldfamoushacker3@gmail.com">worldfamoushacker3@gmail.com</a></strong></li>
+  <li>🎯 Fun fact: <strong>I'm an Ambivert who had more conversations with AI models than with humans some days. 💬🤖</strong></li>
 </ul>
 
-<!-- Connect With Me -->
-<h3 align="left">🔗 Connect with me:</h3>
+<!-- Tech Stack -->
+<h2>🛠️ Technical Expertise</h2>
 <p align="left">
-  <a href="https://linkedin.com/in/aryan-karumuri" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-karumuri" height="30" width="40" />
+  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python programming language" width="40" height="40"/>
   </a>
-  <a href="https://medium.com/@worldfamoushacker3" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@worldfamoushacker3" height="30" width="40" />
+  <a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch deep learning framework" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/c/mrgamingfreak" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgamingfreak" height="30" width="40" />
+  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow machine learning framework" width="40" height="40"/>
   </a>
-  <a href="https://www.hackerrank.com/aryankarumuri1" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aryankarumuri1" height="30" width="40" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn machine learning library" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas data analysis library" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy numerical computing library" width="40" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git version control" width="40" height="40"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code editor" width="40" height="40"/>
   </a>
 </p>
 
+
+<!-- Published Blogs -->
+<h2>📝 Technical Writings & Publications</h2>
+<ul>
+  <li>
+    🤖 <strong>Agentic AI:</strong> <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-Efficient-Agentic-RAG-System-with-SmolAgents-and-Intel/post/1704387">Building Efficient Agentic RAG Systems with SmolAgents and Intel® Tiber™ AI Cloud</a>
+  </li>
+  <li>
+    🔌 <strong>Protocol Implementation:</strong> <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-Efficient-Multi-Modal-AI-Agents-with-Model-Context/post/1689300">Implementing Model Context Protocol (MCP) for Multi-Modal Agents</a>
+  </li>
+  <li>
+    👁️ <strong>Computer Vision:</strong> <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Building-High-Performance-Image-Search-with-OpenCLIP-Chroma-and/post/1686081">High-Performance Image Search with OpenCLIP, Chroma, and PyTorch</a>
+  </li>
+  <li>
+    📊 <strong>Business Intelligence:</strong> <a href="https://community.intel.com/t5/Blogs/Tech-Innovation/Artificial-Intelligence-AI/Multi-Modal-Brand-Agent-Connecting-Visual-Logos-to-Business/post/1689335">Multi-Modal Brand Agents: Connecting Visual Logos to Business Intelligence</a>
+  </li>
+</ul>
+
+
+<!-- Recognitions -->
+<h3 align="left">🏆 Recognitions:</h3>
+<ul>
+  <li>🌟 <a href="https://community.intel.com/t5/Blogs/Intel/We-Are-Intel/Get-To-Know-Aryan-Karumuri-Mentor-at-Intel-Liftoff-for-AI/post/1611929" target="_blank" rel="noopener noreferrer">Featured on Intel Community Blog - Mentor at Intel Liftoff for AI</a></li>
+</ul>
+
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img align="center" style="max-width: 100%; width: 460px;" src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="aryankarumuri" />
+<h3 align="left">📊 GitHub Analytics:</h3>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub stats for aryankarumuri" style="max-width: 100%; width: 460px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankarumuri&theme=midnight-purple" alt="GitHub streak stats for aryankarumuri" style="max-width: 100%; width: 460px;" />
+</div>
+
+<!-- Call to Action -->
+<h3 align="center">💬 Let's discuss AI, Agents, and Human Behavior!</h3>
+<p align="center">
+  <em>Open to collaborations, research discussions, and innovative project ideas. Let's build something amazing together! 🚀</em>
+</p>
+
+<!-- Connect With Me -->
+<div align="center">
+  <h3>🔗 Let's Connect</h3>
+  <p>
+    <a href="https://linkedin.com/in/aryan-karumuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://medium.com/@Royal_Titan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="https://www.youtube.com/c/mrgamingfreak"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+    <a href="https://www.hackerrank.com/aryankarumuri1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  </p>
 </div>
