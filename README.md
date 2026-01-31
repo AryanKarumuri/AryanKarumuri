@@ -74,29 +74,15 @@
   </li>
 </ul>
 
-
 <!-- Recognitions -->
-<h3 align="left">🏆 Recognitions:</h3>
+<h2 align="left">🏆 Recognitions:</h2>
 <ul>
   <li>🌟 <a href="https://community.intel.com/t5/Blogs/Intel/We-Are-Intel/Get-To-Know-Aryan-Karumuri-Mentor-at-Intel-Liftoff-for-AI/post/1611929" target="_blank" rel="noopener noreferrer">Featured on Intel Community Blog - Mentor at Intel Liftoff for AI</a></li>
 </ul>
 
-<!-- GitHub Stats -->
-<h3 align="left">📊 GitHub Analytics:</h3>
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryankarumuri&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="GitHub stats for aryankarumuri" style="max-width: 100%; width: 460px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankarumuri&theme=midnight-purple" alt="GitHub streak stats for aryankarumuri" style="max-width: 100%; width: 460px;" />
-</div>
-
-<!-- Call to Action -->
-<h3 align="center">💬 Let's discuss AI, Agents, and Human Behavior!</h3>
-<p align="center">
-  <em>Open to collaborations, research discussions, and innovative project ideas. Let's build something amazing together! 🚀</em>
-</p>
-
 <!-- Connect With Me -->
-<div align="center">
-  <h3>🔗 Let's Connect</h3>
+<div align="left">
+  <h2>🔗 Let's Connect</h2>
   <p>
     <a href="https://linkedin.com/in/aryan-karumuri"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://medium.com/@Royal_Titan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
@@ -104,3 +90,14 @@
     <a href="https://www.hackerrank.com/aryankarumuri1"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
   </p>
 </div>
+
+<!-- GitHub Stats -->
+<h2 align="left">📊 GitHub Analytics:</h2>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryankarumuri&theme=midnight-purple" alt="GitHub streak stats for aryankarumuri" style="max-width: 100%; width: 460px;" />
+</div>
+
+
+
+
+
