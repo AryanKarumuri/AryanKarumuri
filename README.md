@@ -65,6 +65,7 @@
 <h2 align="center">🏆 Recognitions</h2>
 <ul>
   <li>🌟 <a href="https://community.intel.com/t5/Blogs/Intel/We-Are-Intel/Get-To-Know-Aryan-Karumuri-Mentor-at-Intel-Liftoff-for-AI/post/1611929" target="_blank" rel="noopener noreferrer">Featured on Intel Community Blog - Mentor at Intel Liftoff for AI</a></li>
+  <li>🚀 Honored to be listed among the <a href="https://newreleases.io/project/github/uxlfoundation/oneDNN/release/v3.0" target="_blank" rel="noopener noreferrer">oneDNN v3.0 Contributors</a> by UXL Foundation</li>
 </ul>
 
 <!-- Connect With Me -->
